@@ -1,0 +1,25 @@
+{
+  "name": "gregvroberts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregvroberts/node-heroku.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gregvroberts/node-heroku/issues"
+  },
+  "homepage": "https://github.com/gregvroberts/node-heroku#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
